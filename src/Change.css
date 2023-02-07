@@ -1,0 +1,17 @@
+.header1
+{
+  background-color: #282c34; 
+}
+.blog-footer
+{
+    background-color: #282c34;
+    color: white;
+    padding: 40px;
+    font-family: Sans-Serif;
+    text-align: center;
+    bottom: auto;
+}
+.login
+{
+    margin-bottom: 60px;
+}
