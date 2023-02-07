@@ -2,7 +2,6 @@ import React from "react";
 import Header from "./Header";
 import Footer from "./Footer";
 import '../Change.css';
-import { Chart } from "chart.js/auto";
 import {Bar} from "react-chartjs-2";
 import { Pie } from "react-chartjs-2";
 const labels=['2017', '2018', '2019', '2020', '2021', '2022'];
